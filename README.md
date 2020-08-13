@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://badges.pufler.dev/visits/{username}/{repo}
+https://badges.pufler.dev/visits/BisratYalew/BisratYalew
 
 
 <!--
