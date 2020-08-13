@@ -2,19 +2,22 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/BisratYalew/BisratYalew/master/wave.gif" width="40px">
 
 My name is Bisrat Yalew and I'm a software/fullstack developer. I'm from Ethiopia, living in Addis and currently working at HapoTech. You can find me on
-<br>
-<a href="https://twitter.com/BisratYalew">
+<p>
+</p>
+<div align="center">
+ <a href="https://twitter.com/BisratYalew">
   <img align="left" alt="Bisrat Yalew | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/BisratYalew/">
+ </a>
+ <a href="https://www.linkedin.com/in/BisratYalew/">
   <img align="left" alt="Bisrat's LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/BisratYalew">
+ </a>
+ <a href="https://t.me/BisratYalew">
   <img align="left" alt="Bisrat Yalew's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/BisratYalew/">
+ </a>
+ <a href="https://www.instagram.com/BisratYalew/">
   <img align="left" alt="Bisrat's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+ </a>
+</div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bisratyalew.bisratyalew)
 
