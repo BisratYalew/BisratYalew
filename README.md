@@ -15,8 +15,9 @@ My name is Bisrat Yalew and I'm a software/fullstack developer. I'm from Ethiopi
 <a href="https://www.instagram.com/BisratYalew/">
   <img align="left" alt="Bisrat's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=bisratyalew.bisratyalew)
+
 
 <br />
 
