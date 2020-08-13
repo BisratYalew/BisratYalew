@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/BisratYalew/BisratYalew)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/BisratYalew/python-cheatsheet)](https://badges.pufler.dev)
 
 <!--
 **BisratYalew/BisratYalew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
