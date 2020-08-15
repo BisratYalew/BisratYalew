@@ -4,6 +4,8 @@
 My name is Bisrat Yalew and I'm a fullstack developer. I'm from Ethiopia, living in Addis and currently working at HapoTech. You can find me on
 <p>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisratyalew" alt="bisratyalew" /> </p>
+<br />
 <div align="center">
  <a href="https://twitter.com/BisratYalew">
   <img align="left" alt="Bisrat Yalew | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
