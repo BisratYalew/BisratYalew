@@ -46,11 +46,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ##### Repo's to watch
 
-<a href="https://github.com/BisratYalew/BisratYalew">
+<a target="_blank" href="https://github.com/BisratYalew/python-cheatsheet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BisratYalew&repo=python-cheatsheet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/BisratYalew/python-cheatsheet">
+<a target="_blank" href="https://github.com/BisratYalew/real-time-public-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BisratYalew&repo=real-time-public-chat&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
