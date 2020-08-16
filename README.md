@@ -1,10 +1,9 @@
-
+<!--
 # Hello, folks! <img src="https://raw.githubusercontent.com/BisratYalew/BisratYalew/master/wave.gif" width="40px">
-
-My name is Bisrat Yalew and I'm a fullstack developer. I'm from Ethiopia, living in Addis and currently working at HapoTech. You can find me on
-<p>
+My name is Bisrat Yalew and I'm a fullstack developer. I'm from Ethiopia, living in Addis and currently working at HapoTech. You can find me on<p>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisratyalew" alt="bisratyalew" /> </p>
+-->
+
 <br />
 <div align="center">
  <a href="https://twitter.com/BisratYalew">
@@ -21,8 +20,7 @@ My name is Bisrat Yalew and I'm a fullstack developer. I'm from Ethiopia, living
  </a>
 </div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=bisratyalew.bisratyalew)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisratyalew" alt="bisratyalew" /> </p>
 
 <br />
 
