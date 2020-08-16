@@ -1,6 +1,6 @@
-<!--
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/BisratYalew/BisratYalew/master/wave.gif" width="40px">
-My name is Bisrat Yalew and I'm a fullstack developer. I'm from Ethiopia, living in Addis and currently working at HapoTech. You can find me on<p>
+<!-- My name is Bisrat Yalew and I'm a fullstack developer. I'm from Ethiopia, living in Addis and currently working at HapoTech. You can find me on<p>
 </p>
 -->
 <br />
