@@ -22,7 +22,7 @@ const bisrat = {
                      {
                         name: "ETNews"
                      }
-                   ]
+                   ],
                   
  challenge: "I have coded the #100DaysOfCode challenge focused on fullstack development with node.js and react native"
 }
