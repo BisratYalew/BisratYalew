@@ -6,24 +6,24 @@
 [![GitHub BisratYalew](https://img.shields.io/github/followers/BisratYalew?label=follow&style=social)](https://github.com/BisratYalew)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const bisrat = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, Python, HTML, CSS, Go, Solidity],
-  tools: [React, Redux, Node, Flask, Django, ReactNative, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Python, HTML, CSS, Solidity],
+  tools: [Node, React, Redux, Flask, React Native, Styled-Components, Tailwind, ExpressJS, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  databases: [MongoDB, MySQL, MariaDB, Cassandra, ScyllaDB],
+  databases: [MongoDB, MySQL, MariaDB, PostgreSQL, Cassandra, ScyllaDB],
   techCommunities: [
                      {
-                        name: "Hapo Technologies",
+                        name: "Ghion Technologies",
                      },
                      {
                         name: "ETNews"
                      }
                    ],
-                  
+
  challenge: "I have coded the #100DaysOfCode challenge focused on fullstack development with node.js and react native"
 }
 ```
